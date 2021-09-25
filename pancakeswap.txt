@@ -1,0 +1,25 @@
+Want to create a pancakeswap cl one on Binance Smart chain
+
+Steps involved
+
+Create a token for the project
+Finite supply token but integrate emission rate logic to increase the supply.
+Emission-rate per blo-ck-functionality.
+Smart contract for LP tokens or farming
+Boost functionality for APR and API
+Logic to increase and decease the API rates as per the pool liquidity
+Smart contracts for single tokens or staking
+Super cool aesthetic and user friendliness
+Swap functionality
+Planning to release the rewards in timely manner. 20% first two weeks, 20% next 4 months for stakers
+Rewards program for stake holders
+Ha cking prevention mechanism like fish loan attack, infinite mint attack
+Add a deposit fees - I should be able to change it in the admin panel
+Add a withdrawal fees - I should be able to change it in the admin panel
+
+40% of all the fees from all swaps that occur on the platform (given to customers in USDC).
+
+60%* of all deposit fees within the platform (40% given to customers in USDC, 20% reinvested as described directly below).
+
+20% of all additional investments that are made outside the platform (e.g. we will be using a portion of the deposits to re-invest into low-risk stable coin investments through protocols like curve and other Stable-LP pairs).
+The return from this gets added back into customers weekly dividend payout.
